@@ -14,8 +14,8 @@
 // @connect      ariedam.fr
 // @connect      cdn.discordapp.com
 // @connect      raw.githubusercontent.com
-// @updateURL    https://github.com/vaxenvixen/mg-favorite-rooms/raw/refs/heads/main/mg-favorite-rooms.user.js
-// @downloadURL  https://github.com/vaxenvixen/mg-favorite-rooms/raw/refs/heads/main/mg-favorite-rooms.user.js
+// @updateURL    https://raw.githubusercontent.com/vaxenvixen/mg-favorite-rooms/main/mg-favorite-rooms.user.js
+// @downloadURL  https://raw.githubusercontent.com/vaxenvixen/mg-favorite-rooms/main/mg-favorite-rooms.user.js
 // @run-at       document-idle
 
 // ==/UserScript==
