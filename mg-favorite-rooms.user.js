@@ -315,7 +315,7 @@
       return `
         <div class="rf-status-row">
           <div class="rf-avatars">${avatarsHtml(localRoom.players)}</div>
-          <small class="rf-status rf-you-here">You're here &mdash; ${count}/6</small>
+          <small class="rf-status rf-you-here">${count}/6</small>
         </div>
       `;
     }
